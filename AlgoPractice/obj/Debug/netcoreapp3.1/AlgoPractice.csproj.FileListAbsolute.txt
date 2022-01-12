@@ -1,0 +1,12 @@
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/obj/Debug/netcoreapp3.1/AlgoPractice.csprojAssemblyReference.cache
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/obj/Debug/netcoreapp3.1/AlgoPractice.AssemblyInfoInputs.cache
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/obj/Debug/netcoreapp3.1/AlgoPractice.AssemblyInfo.cs
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/obj/Debug/netcoreapp3.1/AlgoPractice.csproj.CoreCompileInputs.cache
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/bin/Debug/netcoreapp3.1/AlgoPractice.deps.json
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/bin/Debug/netcoreapp3.1/AlgoPractice.runtimeconfig.json
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/bin/Debug/netcoreapp3.1/AlgoPractice.runtimeconfig.dev.json
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/bin/Debug/netcoreapp3.1/AlgoPractice.dll
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/bin/Debug/netcoreapp3.1/AlgoPractice.pdb
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/obj/Debug/netcoreapp3.1/AlgoPractice.dll
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/obj/Debug/netcoreapp3.1/AlgoPractice.pdb
+/Users/aakashsaini/Projects/AlgoPractice/AlgoPractice/obj/Debug/netcoreapp3.1/AlgoPractice.genruntimeconfig.cache
